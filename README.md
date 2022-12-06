@@ -1,3 +1,3 @@
-# OpenAI-Haskell-Calculator
+# OpenAI-Code-Snippets
 
-Calculator in Haskell created with OpenAI's ChatGPT
+Code created with OpenAI's ChatGPT
